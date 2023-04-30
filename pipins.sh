@@ -21,7 +21,7 @@
 # Website  : https://www.raspberrypi-spy.co.uk/
 #-----------------------------------------------------------------------------#
 echo " "
-echo -e "\e[0m                      \e[1;31mRaspberry Pi Pinout\e[0m"
+echo -e "\e[0m                    \e[1;31mRaspberry Pi GPIO Pinout\e[0m"
 echo " "
 echo -e "\e[0m                          \e[0;97;42m-----------+\e[0m"
 echo -e "\e[0m                          \e[0;97;42m   +-----+ |\e[0m"
